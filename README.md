@@ -8,12 +8,4 @@
   <a href="https://treib.haus">treib.haus</a>
 </p>
 
----
 
-### 🏡 At Treibhaus
-
-- Taking ideas to working products in weeks, not quarters
-- Building web experiences in real-time 3D, motion and solid engineering
-- Working with founders and teams who want to move fast without cutting corners
-
-<p align="center"><sub>Have something worth building? → <a href="https://treib.haus">treib.haus</a></sub></p>
