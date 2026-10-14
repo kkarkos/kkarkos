@@ -6,7 +6,8 @@
 
 <p align="center">
   <a href="https://treib.haus">treib.haus</a>
-  <a href="https://www.linkedin.com/in/kkarkos">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/kkarkos">LinkedIn</a> 
+  <a href="https://x.com/KradRocks)">X</a>
 </p>
 
 
